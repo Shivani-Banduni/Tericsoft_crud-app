@@ -10,6 +10,7 @@ Tech stack used-
 -HTML
 -CSS
 -Javascript
+-Reactjs
 -Redux
 
 Netlify link- https://shivani-crud-application.netlify.app/
