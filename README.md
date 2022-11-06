@@ -1,7 +1,4 @@
 # Tericsoft_crud-app
-
-# Tericsoft_crud-app
-
 - Created a crud application with the functionalities of Get data , Post data , Delete data , Update data .
 - To use this application first need to " create-react-app "app name"
 - install libraries "axios , react-redux , Material-ui "
