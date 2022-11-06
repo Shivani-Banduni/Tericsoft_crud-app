@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "abc",
+      "email": "shivani@gmail.com",
+      "number": "9458906789",
+      "dob": "3/09/2020",
+      "gender": "F",
+      "hobbies": "cooking,watching"
+    },
+    {
+      "name": "Shivani Banduni",
+      "email": "shivanibanduni009@gmail.com",
+      "number": "9458344121",
+      "dob": "2022-11-08",
+      "id": 2
+    },
+    {
+      "name": "shua",
+      "email": "vimalbanduni009@gmail.com",
+      "number": "9458344121",
+      "dob": "2022-11-16",
+      "type": "male",
+      "id": 3
+    }
+  ]
+}
